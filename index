@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> enajblack </title>
+</head>
+<body styles=" 
+background-colour: peachpuff;
+text-align: center;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+">
+<div>
+    <img
+    style="border-radius: 50%; width: 150px;"
+src="https://source.unsplash.com/random//?profile+picture
+/>"
+<h1> Odugu Chiamaka </h1>
+<p>Frontend Developer</p>
+<a href="https://twitter.com/enajblack">
+    FOLLOW ME ON TWITTER
+</a>
+</div>
+</body>
+</html>
